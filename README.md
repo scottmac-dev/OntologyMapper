@@ -1,6 +1,6 @@
 # Ontology Label Mapping Tool
 
-Lightweight Python program that semantically maps labels from a **source ontology** to a **target schema** using the [Sentence Transformers](https://www.sbert.net/) model. 
+Lightweight Python program that semantically maps labels from a **source ontology** to a **target schema** using the [Sentence Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model. 
 
 It outputs the results as a JSON file and a formatted text report for review.
 
