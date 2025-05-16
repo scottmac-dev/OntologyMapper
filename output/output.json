@@ -1,0 +1,104 @@
+{
+  "house": {
+    "mapping": "UNKNOWN",
+    "closest target": "building",
+    "score": 0.514
+  },
+  "school": {
+    "mapping": "UNKNOWN",
+    "closest target": "road",
+    "score": 0.452
+  },
+  "human": {
+    "mapping": "person",
+    "score": 0.757
+  },
+  "path": {
+    "mapping": "road",
+    "score": 0.62
+  },
+  "gumtree": {
+    "mapping": "tree",
+    "score": 0.614
+  },
+  "shrub": {
+    "mapping": "UNKNOWN",
+    "closest target": "tree",
+    "score": 0.554
+  },
+  "dog": {
+    "mapping": "animal",
+    "score": 0.816
+  },
+  "cat": {
+    "mapping": "animal",
+    "score": 0.674
+  },
+  "kangaroo": {
+    "mapping": "UNKNOWN",
+    "closest target": "animal",
+    "score": 0.517
+  },
+  "track": {
+    "mapping": "UNKNOWN",
+    "closest target": "road",
+    "score": 0.469
+  },
+  "vegatation": {
+    "mapping": "UNKNOWN",
+    "closest target": "animal",
+    "score": 0.354
+  },
+  "garden": {
+    "mapping": "UNKNOWN",
+    "closest target": "fence",
+    "score": 0.452
+  },
+  "truck": {
+    "mapping": "vehicle",
+    "score": 0.766
+  },
+  "car": {
+    "mapping": "vehicle",
+    "score": 0.87
+  },
+  "cyclist": {
+    "mapping": "UNKNOWN",
+    "closest target": "person",
+    "score": 0.398
+  },
+  "pinetree": {
+    "mapping": "tree",
+    "score": 0.726
+  },
+  "office": {
+    "mapping": "UNKNOWN",
+    "closest target": "bush",
+    "score": 0.46
+  },
+  "tower": {
+    "mapping": "UNKNOWN",
+    "closest target": "building",
+    "score": 0.583
+  },
+  "door": {
+    "mapping": "UNKNOWN",
+    "closest target": "road",
+    "score": 0.458
+  },
+  "apple": {
+    "mapping": "UNKNOWN",
+    "closest target": "bush",
+    "score": 0.427
+  },
+  "grass": {
+    "mapping": "UNKNOWN",
+    "closest target": "road",
+    "score": 0.46
+  },
+  "doctor": {
+    "mapping": "UNKNOWN",
+    "closest target": "bush",
+    "score": 0.434
+  }
+}

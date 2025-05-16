@@ -1,0 +1,40 @@
+===== START REPORT =====
+
+TITLE: Ontology Mapping Report 16-05-2025 14:52:34
+
+SUMMARY:
+    - Source labels mapped: 22
+    - Target labels: 8
+    - Threshold for success: 0.6
+    - Success percentage: 36.36%
+    - Labels mapped: 8
+    - Labels unknown: 14
+
+RESULTS:
+    == SUCCESS ==
+    - Source: HUMAN -> Target: PERSON || Score: 0.757
+    - Source: PATH -> Target: ROAD || Score: 0.62
+    - Source: GUMTREE -> Target: TREE || Score: 0.614
+    - Source: DOG -> Target: ANIMAL || Score: 0.816
+    - Source: CAT -> Target: ANIMAL || Score: 0.674
+    - Source: TRUCK -> Target: VEHICLE || Score: 0.766
+    - Source: CAR -> Target: VEHICLE || Score: 0.87
+    - Source: PINETREE -> Target: TREE || Score: 0.726
+
+    == UNKNOWN ==
+    - Source: HOUSE -> Target: UNKNOWN || Closest target: BUILDING Score: 0.514
+    - Source: SCHOOL -> Target: UNKNOWN || Closest target: ROAD Score: 0.452
+    - Source: SHRUB -> Target: UNKNOWN || Closest target: TREE Score: 0.554
+    - Source: KANGAROO -> Target: UNKNOWN || Closest target: ANIMAL Score: 0.517
+    - Source: TRACK -> Target: UNKNOWN || Closest target: ROAD Score: 0.469
+    - Source: VEGATATION -> Target: UNKNOWN || Closest target: ANIMAL Score: 0.354
+    - Source: GARDEN -> Target: UNKNOWN || Closest target: FENCE Score: 0.452
+    - Source: CYCLIST -> Target: UNKNOWN || Closest target: PERSON Score: 0.398
+    - Source: OFFICE -> Target: UNKNOWN || Closest target: BUSH Score: 0.46
+    - Source: TOWER -> Target: UNKNOWN || Closest target: BUILDING Score: 0.583
+    - Source: DOOR -> Target: UNKNOWN || Closest target: ROAD Score: 0.458
+    - Source: APPLE -> Target: UNKNOWN || Closest target: BUSH Score: 0.427
+    - Source: GRASS -> Target: UNKNOWN || Closest target: ROAD Score: 0.46
+    - Source: DOCTOR -> Target: UNKNOWN || Closest target: BUSH Score: 0.434
+
+===== END REPORT =====
