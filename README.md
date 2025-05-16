@@ -32,7 +32,7 @@ python ontology_mapper.py <source_labels.json> <target_labels.json> <output_path
 ## Example
 
 ```bash
-python map_labels.py assets/source_ontology_labels.json assets/target_schema_ontology.json output/output.json 0.7
+python ontology_mapper.py assets/source_ontology_labels.json assets/target_schema_ontology.json output/output.json 0.7
 ```
 
 ## Output
